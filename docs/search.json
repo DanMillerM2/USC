@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Empirical Evaluation of Shallow Landslide Susceptibility, Frequency, and Runout by Landform",
+    "title": "Unstable Slopes Criteria",
     "section": "",
-    "text": "We seek to capitalize on newly available data products and analysis tools to re-evaluate the methods used to identify potentially unstable slopes during timber-management activities in Washington. Not that there is necessarily anything wrong with the current rules, but since their development we have access to a variety of new data sets that may serve to better resolve factors influencing landslide susceptibility. These include:\n\nlidar-derived DEMs,\nhigh-resolution land-cover\nforest origin-year data\ngridded daily precipitation data\n\nOur intentions for using these data are described in the Study Design.\nWe will post documents and data sets describing our progress on this web site. The documents can be viewed in your web browser and also downloaded in Microsoft Word or pdf formats. We are working to develop an efficient protocol for receiving and documenting comments and edits from project team members and other reviewers of this content.\nDan and Elise"
+    "text": "This website serves as a document repository for communication between members of the Unstable Slopes Criteria (USC) project team, UPSAG, CMER, and Neptune. With the USC project, we are evaluating the criteria used to identify locations where timber-management activities might alter susceptibility to shallow landslide initiation and runout extent. This project consists of several sequential phases, described in the Unstable Slopes Criteria scoping document:\n\nObject-based landform mapping\nEmpirical evaluation of shallow landslide susceptibility, frequency, and runout by landform\nModels to identify landscapes/landslides most susceptibility to management.\n\nHere we document ongoing work for the second phase of the project. We are following the strategy outlined in the study design, although our methods may evolve as we progress."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Unstable Slopes Criteria Project",
+    "title": "Landslide Susceptibility",
     "section": "",
-    "text": "This website serves as a document repository for communication between members of the Unstable Slopes Criteria (USC) project team, UPSAG, CMER, and Neptune. With the USC project, we are evaluating the criteria used to identify locations where timber-management activities might alter susceptibility to shallow landslide initiation and runout extent. This project consists of several sequential phases, described in the Unstable Slopes Criteria scoping document:\n\nObject-based landform mapping\nEmpirical evaluation of shallow landslide susceptibility, frequency, and runout by landform\nModels to identify landscapes/landslides most susceptibility to management.\n\nHere we document ongoing work for the second phase of the project. We are following the strategy outlined in the study design, although our methods may evolve as we progress."
+    "text": "We seek to capitalize on newly available data products and analysis tools to re-evaluate the methods used to identify potentially unstable slopes during timber-management activities in Washington. Not that there is necessarily anything wrong with the current rules, but since their development we have access to a variety of new data sets that may serve to better resolve factors influencing landslide susceptibility. These include:\n\nlidar-derived DEMs,\nhigh-resolution land-cover\nforest origin-year data\ngridded daily precipitation data\n\nOur intentions for using these data are described in the Study Design.\nWe will post documents and data sets describing our progress on this web site. The documents can be viewed in your web browser and also downloaded in Microsoft Word or pdf formats. We are working to develop an efficient protocol for receiving and documenting comments and edits from project team members and other reviewers of this content.\nDan and Elise"
   },
   {
     "objectID": "coregistration.html",

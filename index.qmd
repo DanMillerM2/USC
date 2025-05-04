@@ -1,20 +1,13 @@
 ---
-title: Empirical Evaluation of Shallow Landslide Susceptibility, Frequency, and Runout by Landform
-bibliography: references.bib
+title: "Unstable Slopes Criteria"
 ---
 
-We seek to capitalize on newly available data products and analysis tools to re-evaluate the methods used to identify potentially unstable slopes during timber-management activities in Washington. Not that there is necessarily anything wrong with the [current rules](https://app.leg.wa.gov/wac/default.aspx?cite=222-16-050), but since their development we have access to a variety of new data sets that may serve to better resolve factors influencing landslide susceptibility. These include:
+This website serves as a document repository for communication between members of the Unstable Slopes Criteria (USC) project team, UPSAG, CMER, and [Neptune](https://www.neptuneinc.org/). With the USC project, we are evaluating the criteria used to identify locations where timber-management activities might alter susceptibility to shallow landslide initiation and runout extent. This project consists of several sequential phases, described in the [Unstable Slopes Criteria scoping document](https://dnr.wa.chariotcreative.com/files/documents/ScopingStrategy-Document-1710261704.pdf):
 
--   [lidar-derived DEMs](https://lidarportal.dnr.wa.gov/),
+-   [Object-based landform mapping](https://dnr.wa.chariotcreative.com/project/unstable-slopes-criteria-object-based-landform-mapping)
 
--   [high-resolution land-cover](https://geo.wa.gov/datasets/land-cover-statewide-ecopia-data-2021-2022-3ft-raster/about)
+-   [Empirical evaluation of shallow landslide susceptibility, frequency, and runout by landform](https://dnr.wa.chariotcreative.com/project/unstable-slopes-criteria-empirical-evaluation-of-shallow-landslide-susceptibility-frequency-and-runout-by-landform)
 
--   [forest origin-year data](https://data-wadnr.opendata.arcgis.com/maps/6776f812ba724d61ac9c900ced2898cb/explore?location=0.000612%2C72.666450%2C0.00)
+-   Models to identify landscapes/landslides most susceptibility to management.
 
--   [gridded daily precipitation data](https://psl.noaa.gov/data/gridded/tables/precipitation.html)
-
-Our intentions for using these data are described in the [Study Design](https://www.dnr.wa.gov/publications/fp_tfw_susc_initi_runout.pdf).
-
-We will post documents and data sets describing our progress on this web site. The documents can be viewed in your web browser and also downloaded in Microsoft Word or pdf formats. We are working to develop an efficient protocol for receiving and documenting comments and edits from project team members and other reviewers of this content.
-
-Dan and Elise
+Here we document ongoing work for the second phase of the project. We are following the strategy outlined in the [study design](https://dnr.wa.chariotcreative.com/files/documents/Study-Design-1710522518.pdf), although our methods may evolve as we progress.

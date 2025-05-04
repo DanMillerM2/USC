@@ -6,12 +6,9 @@ website:
   title: "USC"
   navbar:
     left:
-      - text: "Unstable Slopes Criteria Project"
-        href: about.qmd
-      - text: "Landslide susceptibility"
-        href: index.qmd
-      - text: "Coregistration"
-        href: coregistration.qmd
+      - index.qmd
+      - about.qmd
+      - coregistration.qmd
 
 format:
   html:
