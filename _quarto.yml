@@ -10,11 +10,6 @@ website:
         href: about.qmd
       - text: "Landslide susceptibility"
         href: index.qmd
-
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
       - text: "Coregistration"
         href: coregistration.qmd
 
