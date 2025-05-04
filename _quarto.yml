@@ -8,13 +8,26 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - about.qmd
-  sidebar:
-    style: "docked"
-    search: true
-    contents:
       - text: "Coregistration"
-        href: Coregistration.qmd
+        href: coregistration.qmd
+      - about.qmd
+
+  sidebar:
+    - title: "Coregistration"
+      style: "docked"
+      search: true
+      contents:
+        - Coregistration.qmd
+
+      tools:
+        - icon: github
+          menu:
+            - text: "Source"
+              href: https://coregistration.qmd
+        - icon: File word fill
+          menu:
+          - text: "Microsoft Word"
+            href: https://docs/coregistration.docx
 
 format:
   html:

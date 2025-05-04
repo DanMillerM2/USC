@@ -2,9 +2,9 @@
 title: "Coregistration"
 author: "Dan"
 date: today
-format: html
+#format: html
 #format: gfm
-#format: docx
+format: docx
 editor: visual
 execute:
   echo: false
