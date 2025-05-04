@@ -1,4 +1,19 @@
 ---
-title: "USC"
+title: "Empirical Evaluation of Shallow Landslide Susceptibility, Frequency, and Runout by Landform"
 ---
 
+We seek to capitalize on newly available data products and analysis tools to re-evaluate the methods used to identify potentially unstable slopes during timber-management activities in Washington. Not that there is necessarily anything wrong with the [current rules](https://app.leg.wa.gov/wac/default.aspx?cite=222-16-050), but since their development we have access to a variety of new data sets that may serve to better resolve factors influencing landslide susceptibility. These include:
+
+-    [lidar-derived DEMs](https://lidarportal.dnr.wa.gov/),
+
+-   [high-resolution land-cover](https://geo.wa.gov/datasets/land-cover-statewide-ecopia-data-2021-2022-3ft-raster/about)
+
+-   [forest origin-year data](https://data-wadnr.opendata.arcgis.com/maps/6776f812ba724d61ac9c900ced2898cb/explore?location=0.000612%2C72.666450%2C0.00)
+
+-   [gridded daily precipitation data](https://psl.noaa.gov/data/gridded/tables/precipitation.html)
+
+Our intentions for using these data are described in the [Study Design](https://www.dnr.wa.gov/publications/fp_tfw_susc_initi_runout.pdf).
+
+We will post documents and data sets describing our progress on this web site. The documents can be viewed in your web browser and also downloaded in Microsoft Word or pdf formats. We are working to develop an efficient protocol for receiving and documenting comments and edits from project team members and other reviewers of this content.
+
+Dan and Elise

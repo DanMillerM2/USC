@@ -3,12 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "USC"
+  title: "Unstable Slopes Criteria Project"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Home"
+        href: index.qmd
       - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Coregistration"
+        href: Coregistration.qmd
 
 format:
   html:
