@@ -1,10 +1,11 @@
 ---
-title: "Empirical Evaluation of Shallow Landslide Susceptibility, Frequency, and Runout by Landform"
+title: Empirical Evaluation of Shallow Landslide Susceptibility, Frequency, and Runout by Landform
+bibliography: references.bib
 ---
 
 We seek to capitalize on newly available data products and analysis tools to re-evaluate the methods used to identify potentially unstable slopes during timber-management activities in Washington. Not that there is necessarily anything wrong with the [current rules](https://app.leg.wa.gov/wac/default.aspx?cite=222-16-050), but since their development we have access to a variety of new data sets that may serve to better resolve factors influencing landslide susceptibility. These include:
 
--    [lidar-derived DEMs](https://lidarportal.dnr.wa.gov/),
+-   [lidar-derived DEMs](https://lidarportal.dnr.wa.gov/),
 
 -   [high-resolution land-cover](https://geo.wa.gov/datasets/land-cover-statewide-ecopia-data-2021-2022-3ft-raster/about)
 

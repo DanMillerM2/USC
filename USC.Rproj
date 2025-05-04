@@ -1,8 +1,8 @@
 Version: 1.0
 ProjectId: a471d8a5-3393-4de2-bba1-679c45c9321e
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
+RestoreWorkspace: No
+SaveWorkspace: Yes
 AlwaysSaveHistory: Default
 
 EnableCodeIndexing: Yes
@@ -15,3 +15,5 @@ LaTeX: pdfLaTeX
 
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
+
+ZoteroLibraries: "My Library"

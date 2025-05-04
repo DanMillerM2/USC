@@ -3,39 +3,29 @@ project:
   output-dir: docs
 
 website:
-  title: "Unstable Slopes Criteria Project"
+  title: "USC"
   navbar:
     left:
-      - text: "Home"
+      - text: "Unstable Slopes Criteria Project"
+        href: about.qmd
+      - text: "Landslide susceptibility"
         href: index.qmd
       - text: "Coregistration"
-        href: coregistration.qmd
-      - about.qmd
+        href: Coregistration.qmd
 
-  sidebar:
-    - title: "Coregistration"
-      style: "docked"
-      search: true
-      contents:
-        - Coregistration.qmd
-
-      tools:
-        - icon: github
-          menu:
-            - text: "Source"
-              href: https://coregistration.qmd
-        - icon: File word fill
-          menu:
-          - text: "Microsoft Word"
-            href: https://docs/coregistration.docx
+#  sidebar:
+#    style: "docked"
+#    search: true
+#    contents:
+#      - text: "Coregistration"
+#        href: coregistration.qmd
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
     toc: true
 
 editor: visual
-
+bibliography: references.bib

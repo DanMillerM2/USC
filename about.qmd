@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Unstable Slopes Criteria Project"
 ---
 
 This website serves as a document repository for communication between members of the Unstable Slopes Criteria (USC) project team, UPSAG, CMER, and [Neptune](https://www.neptuneinc.org/). With the USC project, we are evaluating the criteria used to identify locations where timber-management activities might alter susceptibility to shallow landslide initiation and runout extent. This project consists of several sequential phases, described in the [Unstable Slopes Criteria scoping document](https://dnr.wa.chariotcreative.com/files/documents/ScopingStrategy-Document-1710261704.pdf):
