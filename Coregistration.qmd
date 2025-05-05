@@ -20,7 +20,7 @@ Our goal is to identify landslide sites using changes in ground-surface elevatio
 
 [^1]: The terms "DEM", for Digital Elevation Model, and "DTM", for Digital Terrain Model, are not used consistently in the literature (e.g., see [Wikipedia](https://en.wikipedia.org/wiki/Digital_elevation_model)). We are using the term "DTM" because that is the term used on the Washington Lidar Portal. These DTMs are intended to represent the ground surface with all overlying vegetation and buildings removed.
 
-In using two (or more) lidar data sets to detect elevation change, it is necessary to ensure that the data sets are spatially aligned [@cucchiaro2020]. Differences in spatial registration between the data sets will produce systematic errors in measured elevation differences. In the study design, we described approaches that have been used for co-registration of lidar datasets. These involve two strategies:
+In using two (or more) lidar data sets to detect elevation change, it is necessary to ensure that the data sets are spatially aligned [@cucchiaro2020]. Differences in spatial registration will produce systematic errors in measured elevation differences. In the study design, we described approaches that have been used for co-registration of lidar datasets. These involve two strategies:
 
 -   Co-register the lidar point-cloud ground returns, then build the two DTMs.
 
