@@ -9,6 +9,7 @@ website:
       - index.qmd
       - about.qmd
       - Coregistration.qmd
+      - MappingLandslides.qmd
 
 format:
   html:
