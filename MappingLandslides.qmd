@@ -328,24 +328,23 @@ OutGrad <- paste0(OutGrad, ".flt")
 ScratchDir <- "c:\\work\\scratch"
 executable_dir <- "c:/work/sandbox/landslideutilities/projects/LShunter/x64/release"
 
-returnCode <- TerrainWorksUtils::LShunter(
-    DoD,
-    Outlier,
-    threshold1,
-    threshold2,
-    OutGrad,
-    min1,
-    min2,
-    Accum,
-    maxAccum1,
-    maxAccum2,
-    minSize,
-    OutPatch,
-    ScratchDir,
-    executable_dir) 
+#returnCode <- TerrainWorksUtils::LShunter(
+#    Outlier,
+#    threshold1,
+#    threshold2,
+#    OutGrad,
+#    min1,
+#    min2,
+#    Accum,
+#    maxAccum1,
+#    maxAccum2,
+#    minSize,
+#    OutPatch,
+#    ScratchDir,
+#    executable_dir) 
 
-if (returnCode != 0) {
-  return(returnCode)
-  stop("Error in LShunter")
-}
+#if (returnCode != 0) {
+#  return(returnCode)
+#  stop("Error in LShunter")
+#}
 ```

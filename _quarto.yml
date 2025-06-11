@@ -5,16 +5,27 @@ project:
 website:
   title: "USC"
   navbar:
+    search: true
     left:
-      - index.qmd
-      - about.qmd
-      - Coregistration.qmd
-      - MappingLandslides.qmd
+      - text: "Unstable Slopes Criteria"
+        href: index.qmd
+      - text: "Landslide Susceptibility"
+        href: about.qmd
+
+  sidebar:
+    - title: "Landslide Susceptibility"
+      style: "docked"
+      contents:
+      - text: "Introduction"
+        href: about.qmd
+      - text: "Aligning DEMs: Coregistration"
+        href: Coregistration.qmd
+      - text: "Identifying landslides"
+        href: MappingLandslides.qmd
 
 format:
   html:
-    theme:
-      - cosmo
+    theme: cosmo
     css: styles.css
     toc: true
 
