@@ -9,7 +9,6 @@ format:
   pdf: default
 editor: visual
 execute:
-  echo: false
   warning: false
 bibliography: references.bib
 ---
